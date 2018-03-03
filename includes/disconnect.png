@@ -1,0 +1,6 @@
+<?php
+
+$sql=mysql_connect("localhost","ami","010101");
+mysql_close($sql);
+
+?>

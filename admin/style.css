@@ -1,0 +1,24 @@
+body{margin-top:5px;background:gray; }
+
+#header {height:200px;width:100%;background:black;padding:0px;margin:0px;}
+
+#navigation {height:50px;width:100%;background:#208E24;padding-top:2px;}
+#navigation li{padding:5px; padding-top:10px;display:inline;border:2px solid red;background:red;}
+#navigation a{ text-decoration:none;padding:5px; color:yellow;}
+#navigation img{margin-top:-17px;position:absolute;padding-left:25px;}
+#navigation h4{margin-top:-35px;position:absolute;background:red;margin-left:70%;padding:4px;}
+
+
+#admin_content1{ background:#E99920;width:97%;padding:5px;margin:10px;margin-left:12px;}
+
+
+#admin_content{ background:white;width:98.5%;padding:5px;margin:5px;height:100px;}
+#admin_content a{ margin:2px;text-decoration:none;}
+#fb_c{background:#CDE6D6;border:2px solid black;margin:2px;float:left;padding:2px;}
+#fb_c a{text-decoration:none;}
+
+#manage_user{background:#E99920;width:18%;height:45%;padding:5px;border:2px solid red;margin:5px;float:left;}
+#information{background:red;}
+#active1{float:left;border:2px solid black;margin-left:0px;margin-top:0%;padding:0px;margin-right:6%;}
+#delete1{float:right;border:2px solid black;margin-left:0px;margin-top:-61%;}
+#conf_log{background:#0000FF;height:150px;width:400px;margin-left:30%;margin-top:17%;padding:5%;border:2px solid white;color:white;}
